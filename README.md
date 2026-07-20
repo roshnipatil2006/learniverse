@@ -1,2 +1,1 @@
-# learniverse
-Gamified Learning Platform
+learniverse 
